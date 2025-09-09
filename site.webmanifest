@@ -1,0 +1,12 @@
+{
+  "name": "Générateur de nombres",
+  "short_name": "Nombres",
+  "description": "Générez des nombres aléatoires (entiers ou décimaux) en ligne.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#1c89ff",
+  "icons": []
+}
+

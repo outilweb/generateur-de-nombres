@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Ajoutez votre sitemap une fois l'URL connue:
+# Sitemap: https://votre-domaine-ou-github-pages/sitemap.xml
+
