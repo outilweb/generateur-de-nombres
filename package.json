@@ -1,0 +1,14 @@
+{
+  "name": "generateur-de-nombres",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Générateur de nombres statique avec serveur de dev sans dépendances.",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
+
